@@ -53,7 +53,7 @@ log.withContext({ requestId: 'abc-123' })
 - **Extensible** — plugins for redaction, filtering, OpenTelemetry trace injection, and sprintf formatting
 - **Framework integrations** — first-class support for Hono, Fastify, and ElysiaJS
 - **Multi-platform** — runs on Node.js, Deno, Bun, and browsers
-- **Tiny footprint** — 5kB gzipped core, most transports under 1kB
+- **Tiny footprint** — 8kB gzipped core, most transports under 1kB
 - **Battle tested** — in production for 4+ years at [Airtop.ai](https://airtop.ai)
 
 ### Ecosystem
